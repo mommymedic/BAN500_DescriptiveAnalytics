@@ -1,6 +1,8 @@
 # BAN500_DescriptiveAnalytics
 UNCW BAN500 Descriptive Analytics Final Project
 
+To view, please download the xlxs file.
+
 This goal of this final project was to independently choose a raw dataset to clean and analyze. 
 
 As Emergency Medical Service (EMS) was a huge part of my life I decided to use response emergency response data from Tempe, Arizona for the years 2020-2021. I used 2020 as the COVID-19 pandemic was in full-swing, impacting every part of life, especially EMS response times and number of responses.
